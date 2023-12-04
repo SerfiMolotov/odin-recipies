@@ -1,1 +1,1 @@
-# odin-recipies
+Projet sur des recettes qui vise à pratiqué du html 
