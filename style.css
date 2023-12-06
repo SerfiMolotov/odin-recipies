@@ -1,16 +1,18 @@
 * {
-    font-family: 'Brush Script MT', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
 
 body {
     background-color: antiquewhite;
+    text-align: center;
 }
 
 .entete {
     text-align: center;
     font-size: 45px;
+    
 }
 
 .lien {
@@ -20,4 +22,22 @@ body {
     align-items: flex-end;
     color: black;
     font-size: 20px;
+    padding: 30px;
+    border: 2px solid;
 }
+
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.ingrediant {
+    background-color: gray;
+    border: 2px solid;
+}
+
+.etapes {
+    background-color: lightyellow;
+    border: 2px solid;
+}
+
