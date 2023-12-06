@@ -1,0 +1,23 @@
+* {
+    font-family: 'Brush Script MT', cursive;
+}
+
+
+
+body {
+    background-color: antiquewhite;
+}
+
+.entete {
+    text-align: center;
+    font-size: 45px;
+}
+
+.lien {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: flex-end;
+    color: black;
+    font-size: 20px;
+}
