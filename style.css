@@ -12,9 +12,12 @@ body {
 .entete {
     text-align: center;
     font-size: 45px;
+    height: 65px;
+    width: 400px;
+    margin: auto;
+    
     
 }
-
 .lien {
     display: flex;
     justify-content: center;
@@ -24,6 +27,9 @@ body {
     font-size: 20px;
     padding: 30px;
     border: 2px solid;
+    padding: 20px;
+    margin: 30px;
+    
 }
 
 h2 {
