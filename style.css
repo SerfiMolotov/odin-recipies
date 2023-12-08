@@ -30,6 +30,8 @@ body {
     border: 2px solid;
     padding: 20px;
     margin: 30px;
+    background-color: antiquewhite;
+    border-radius: 17px;
     
 }
 
@@ -55,10 +57,9 @@ h2 {
 
 h1 {
     border: 2px solid;
-}
-
-.test {
-    display: inline;
+    margin-left: 850px;
+    margin-right: 850px;
+    border-radius: 15px;
 }
 
 .homep {
@@ -66,4 +67,6 @@ h1 {
     margin-left: 500px;
     margin-right: 500px;
     padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0 1em 1em black;
 }
