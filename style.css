@@ -16,7 +16,6 @@ body {
     width: 400px;
     margin: auto;
     
-    
 }
 .lien {
     display: flex;
@@ -55,3 +54,8 @@ h2 {
 h1 {
     border: 2px solid;
 }
+
+.test {
+    display: inline;
+}
+
