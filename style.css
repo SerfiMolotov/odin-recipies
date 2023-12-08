@@ -7,6 +7,9 @@
 body {
     background-color: antiquewhite;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
 }
 
 .entete {
@@ -69,4 +72,17 @@ h1 {
     padding-top: 30px;
     border-radius: 20px;
     box-shadow: 0 1em 1em black;
+}
+
+footer {
+    background-color: grey;
+    text-align: left;
+}
+
+#apropos {
+    text-align: left;
+}
+
+#description {
+    font-size: 10px;
 }
