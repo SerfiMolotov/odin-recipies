@@ -17,8 +17,10 @@ body {
     margin: auto;
     
 }
-.lien {
-    display: flex;
+.steak,
+.milk,
+.burger {
+    display: inline-block;
     justify-content: center;
     justify-content: space-around;
     align-items: flex-end;
@@ -59,3 +61,9 @@ h1 {
     display: inline;
 }
 
+.homep {
+    background-color: aliceblue;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 30px;
+}
